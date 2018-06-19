@@ -5,7 +5,7 @@ This is the repository for my project, "Identifying Fraud from Enron Email ," fo
 #### Final Project for Udacity Machine Learning Course
 
 Link to Udacity repo for this project is https://github.com/udacity/ud120-projects
-Link to HTML version of my project: http://nbviewer.ipython.org/github/DariaAlekseeva/Enron_Dataset/blob/master/Enron%20POI%20Detector%20Project%20Assignment.ipynb
+
 
 ## Enron POI Detector Project Assignment
 --- Project Overview ---
